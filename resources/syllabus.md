@@ -45,8 +45,8 @@ template: signposting.html
 
 ## Training Description
 
-- what is the main goal/purpose of this training
-- short training description
+- What is the main goal/purpose of this training
+- Short training description
 
 ## Target audience: target audience description
 
